@@ -1,0 +1,4 @@
+pip install flask
+pip install pycaret - anaconda prompt
+
+https://towardsdatascience.com/build-and-deploy-your-first-machine-learning-web-app-e020db344a99
